@@ -1,17 +1,34 @@
-# Training
 
-A collection of C# exercises, projects, and sample code for learning and practicing programming concepts.
 
 ## Overview
+This Point of Sale (POS) system is a Windows-based desktop application developed using C# (.NET Framework). It is designed to manage and streamline sales operations for retail environments. The application uses MySQL as the backend database for data storage and Crystal Reports for generating detailed sales and inventory reports.
 
-This repository contains various C# code samples and projects designed to help with learning, experimentation, and skill development. It can include anything from basic syntax examples to more advanced projects.
+##Technologies Used
+Programming Language: C#
 
-## Features
+Framework: .NET Framework (Windows Forms)
 
-- Example C# programs and scripts
-- Practice exercises and solutions
-- Demonstrations of C# features (OOP, LINQ, async/await, etc.)
-- Sample projects for hands-on learning
+Database: MySQL
+
+Reporting: Crystal Reports
+
+IDE: Visual Studio
+##Features
+User login & authentication
+
+Product management (Add, Edit, Delete products)
+
+Inventory tracking
+
+Sales processing with receipt generation
+
+Customer management
+
+Daily, weekly, and monthly sales reports using Crystal Reports
+
+Role-based access (Admin, Cashier)
+
+Database backup and restore functionality
 
 ## Getting Started
 
@@ -20,7 +37,8 @@ This repository contains various C# code samples and projects designed to help w
    git clone https://github.com/Ibrahimo4/training.git
 
 
-   ![pos1](https://github.com/user-attachments/assets/6d811292-d665-4372-b931-503e73a53224)
+![pos1](https://github.com/user-attachments/assets/6d811292-d665-4372-b931-503e73a53224)
+   
 
 ![pos2](https://github.com/user-attachments/assets/e0c54477-34a0-468f-80a6-ffe5eef626d8)
 
