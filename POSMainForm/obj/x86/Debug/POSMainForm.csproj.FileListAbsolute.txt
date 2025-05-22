@@ -1,0 +1,73 @@
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.csproj.GenerateResource.Cache
+E:\POSMainForm\POSMainForm\bin\Debug\POSMainForm.exe
+E:\POSMainForm\POSMainForm\bin\Debug\POSMainForm.pdb
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.exe
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+E:\POSMainForm\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.exe
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\bin\Debug\POSMainForm.exe
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\bin\Debug\POSMainForm.pdb
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.csprojResolveAssemblyReference.cache
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.csproj.GenerateResource.Cache
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmPOS.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmPrintReceipt.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByUser.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\RdlCompile.cache
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO - POS CSHARP\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.exe
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO - POS CSHARP\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO - POS CSHARP\Backup\50Percent_Original POS Witout airtime\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.exe
+E:\PROJECT\2016 PROJECT\HAREN NAIDOO - POS CSHARP\Backup\50Percent_Original POS Witout airtime\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.exe
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.pdb
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.csprojResolveAssemblyReference.cache
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditCategory.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditProduct.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmDatabaseConfig.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmEnterPassword.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmLogin.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterDailySales.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListCategory.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListProduct.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListProductStocksIn.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmListStaff.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmAddEditStaff.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmMain.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmPayment.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportDailSalesByInvoice.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportFilterStocks.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksIn.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmReportStocksOut.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmSelectCategory.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.frmSystemSetting.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.Properties.Resources.resources
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\POSMainForm.csproj.GenerateResource.Cache
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\RdlCompile.cache
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\obj\x86\Debug\RdlCompile.compiled
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\bin\Debug\POSMainForm.exe
+C:\Users\user-pc\Desktop\POSMain\POSMainForm\bin\Debug\POSMainForm.pdb
